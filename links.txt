@@ -3,3 +3,5 @@
 -> link do repositório do curso: https://github.com/WittmannF/udemy-deep-learning-cnns
 
 -> link do meu respositório do curso: https://github.com/matheusAFONSECA/Deep-Learning-visao-computacional-CNNs-e-transfer-learning
+
+-> link de um pesquisador que mostra vários programas que demonstram de forma didática as CNNS: https://adamharley.com/
