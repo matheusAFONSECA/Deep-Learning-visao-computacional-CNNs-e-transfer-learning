@@ -5,3 +5,5 @@
 -> link do meu respositório do curso: https://github.com/matheusAFONSECA/Deep-Learning-visao-computacional-CNNs-e-transfer-learning
 
 -> link de um pesquisador que mostra vários programas que demonstram de forma didática as CNNS: https://adamharley.com/
+
+-> link sobre as cores RGB de uma imagem: https://www.youtube.com/watch?v=KTB_OFoAQcc
