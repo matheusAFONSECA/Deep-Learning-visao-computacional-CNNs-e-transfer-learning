@@ -1,0 +1,5 @@
+-> link do curso: https://www.udemy.com/course/deep-learning-redes-convolucionais-e-transfer-learning/
+
+-> link do repositório do curso: https://github.com/WittmannF/udemy-deep-learning-cnns
+
+-> link do meu respositório do curso: https://github.com/matheusAFONSECA/Deep-Learning-visao-computacional-CNNs-e-transfer-learning
